@@ -1,9 +1,8 @@
-# include <stdio.h>
+#include <stdio.h>
 
 int main() {
-    int tom;
-    int Tom;
-    // "@";
-    printf("HELLO WORLD");
-    return 0;
+	int a;
+	int b;
+	printf("I AM JUSTIN");
+	return 0;
 }
