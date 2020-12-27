@@ -91,3 +91,9 @@
 - %d is for integers
 - %f for real values
 - %c for chracters
+
+## How to take input from the user
+
+- declare a variable
+- for asking use printf
+- for answering use scanf
