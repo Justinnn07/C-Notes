@@ -19,3 +19,8 @@
 - && for and
 
 - || for vip's inshort xD
+- \ \*, / , %
+- +,-
+- <>, < = > > =
+
+# ELSE IF
