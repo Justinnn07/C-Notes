@@ -19,6 +19,7 @@ int main() {
         break;
         default: 
         printf("INVALID");
+        break;
     };
     return 0;
 }
