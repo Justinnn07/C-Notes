@@ -23,3 +23,18 @@
 while => checks the condition and runs the code
 
 do-while => check the code & then checks the condition
+
+- For loop => for(initialize; test; increment/decrement){
+  // code
+  // code
+  // code
+  }
+
+- In Case of Decrementing for loop
+  for(i = 5; i; i--){
+  // code
+  }
+
+- in this case i is said to br true in the place of test
+
+- break => THIS IS USE TO EXIT THE LOOP WHETHER IT IS TRUE OR FALSE
