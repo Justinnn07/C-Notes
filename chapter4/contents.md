@@ -13,3 +13,13 @@
 
 - i+++ => DOES NOT EXIST
 - += => COMPOUND
+
+- do while loop => similar as while loop
+
+  do {
+
+  }while();
+
+while => checks the condition and runs the code
+
+do-while => check the code & then checks the condition
