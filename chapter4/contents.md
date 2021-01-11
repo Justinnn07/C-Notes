@@ -7,3 +7,9 @@
   2.Do- While loops
 
   3.For Loops
+
+- increment => i++, ++i
+- decrement => i--, --i
+
+- i+++ => DOES NOT EXIST
+- += => COMPOUND
