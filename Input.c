@@ -9,3 +9,5 @@ int main() {
     printf("the value is %d \n", a + b);
     return 0;
 }
+
+// prettier 
